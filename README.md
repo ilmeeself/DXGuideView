@@ -1,2 +1,2 @@
-# DX_GuideView
+# DXGuideView
 iOS(OBJC)--an app guide view
